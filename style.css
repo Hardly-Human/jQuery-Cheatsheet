@@ -1,0 +1,30 @@
+.container {
+	margin: 50px 40px;
+	width: 50vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: row;
+}
+
+.well {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.target {
+	margin: 5px;
+}
+
+.text-red {
+	color: red;
+}
+
+.text-yellow {
+	color: yellow;
+}
+
+.background-black {
+	background-color: black;
+}
